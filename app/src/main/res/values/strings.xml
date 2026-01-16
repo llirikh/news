@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="enter_email">Введите email</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_username">Введите имя пользователя</string>
+    <string name="login">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="no_account_register">Все еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="already_have_an_account">Уже есть аккаунт? Войти</string>
+
+    <string name="read">Читать</string>
+
+    <string name="feed">Лента</string>
+    <string name="profile">Профиль</string>
+
+</resources>
